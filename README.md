@@ -4,7 +4,7 @@ Welcome to my E-commerce project.
 
 Release plan:
 
-# Release 1.0
+# [Release 1.0](https://github.com/ilialloyd/Ecommerce-project/tree/RELEASE_1.0)
 
 - Database connection with backend
 
