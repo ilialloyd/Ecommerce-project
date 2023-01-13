@@ -4,8 +4,13 @@ Welcome to my E-commerce project.
 
 Release plan:
 
-Release 1.0
-Show a list of products
+# Release 1.0
+
+- Database connection with backend
+
+- Basic get functiona and Spring JPA REST CRUD 
+
+- Show a list of products
 
 # Release 2.0
 
