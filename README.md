@@ -8,7 +8,7 @@ Release plan:
 
 - Database connection with backend
 
-- Basic get functiona and Spring JPA REST CRUD 
+- Basic get function and Spring JPA REST CRUD 
 
 - Show a list of products
 
