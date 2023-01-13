@@ -1,16 +1,14 @@
 # Ecommerce-project
 
-Welcome to my E-commerce project.
+# Release 1.0
 
-Release plan:
+- Proof of concept for listing product Angular + Spring Boot + SQL 
 
-Release 1.0
-Show a list of products
+- Basic Angular ferontend
 
-Release 2.0
-Add products to shopping card(CRUD)
-Shopping card check out
+- Tested only Get method in BAckend 
 
-Release 3.0
-User login/logout security
-Tracking previous orders for logged in users
+- Database works and shows basic list of products
+
+
+
